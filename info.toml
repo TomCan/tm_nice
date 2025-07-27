@@ -1,0 +1,8 @@
+[meta]
+name = "Nice!"
+author = "TomCan"
+category = "Fun"
+version = "1.0.0"
+
+[script]
+dependencies = [ "MLHook", "MLFeedRaceData" ]
