@@ -2,7 +2,7 @@
 name = "Nice!"
 author = "TomCan"
 category = "Fun"
-version = "1.0.0"
+version = "1.1.0"
 
 [script]
 dependencies = [ "MLHook", "MLFeedRaceData" ]
