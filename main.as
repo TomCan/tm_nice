@@ -9,7 +9,7 @@ bool niceOnCheckpoint = true;
 [Setting category="Check for a nice time" name="Finish" description="Enable nice time check when passing finish"]
 bool niceOnFinish = true;
 [Setting category="Check for a nice time" name="Test mode" description="Every time is a nice time, for testing purposes"]
-bool testMode = true;
+bool testMode = false;
 
 [SettingsTab name="Try me" icon="Play"]
 void RenderSettings()
